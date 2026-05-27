@@ -72,7 +72,7 @@ The collected data is used to classify network traffic patterns and evaluate net
 ![Prediction](screenshots/Prediction.png)
 
 ### Accuracy Graph
-![Training Model](screenshots/Training Model.png)
+![Training Model](screenshots/Training_Model.png)
 
 ## 🎯 Future Enhancements
 
