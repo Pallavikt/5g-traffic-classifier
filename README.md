@@ -60,19 +60,19 @@ The collected data is used to classify network traffic patterns and evaluate net
 ## 📸 Screenshots
 
 ### Traffic Classification Output
-![Control Interface](screenshots/Control Interface.png)
+![Control Interface](Screenshots/Control Interface.png)
 
 ### Accuracy Graph
-![EDA](screenshots/EDA.png)
+![EDA](Screenshots/EDA.png)
 
 ### Accuracy Graph
-![Performance](screenshots/Performance.png)
+![Performance](Screenshots/Performance.png)
 
 ### Accuracy Graph
-![Prediction](screenshots/Prediction.png)
+![Prediction](Screenshots/Prediction.png)
 
 ### Accuracy Graph
-![Training Model](screenshots/Training_Model.png)
+![Training Model](Screenshots/Training_Model.png)
 
 ## 🎯 Future Enhancements
 
